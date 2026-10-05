@@ -12,7 +12,7 @@ const filters = [...document.querySelectorAll('[data-filter]')];
 filters.forEach(button => button.addEventListener('click', () => {
   filters.forEach(b => b.setAttribute('aria-pressed', String(b === button)));
   figures.forEach(f => { f.hidden = button.dataset.filter !== 'all' && f.dataset.category !== button.dataset.filter; });
-  document.querySelector('#gallery-status').textContent = `Показано ${figures.filter(f => !f.hidden).length} робіт.`;
+  document.querySelector('#gallery-status').textContent = `Кількість робіт: ${figures.filter(f => !f.hidden).length}.`;
 }));
 const dialog = document.querySelector('#lightbox');
 let currentLinks = [], currentIndex = 0, opener = null;
