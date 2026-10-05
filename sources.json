@@ -1,0 +1,63 @@
+{
+  "verified_at": "2026-10-05",
+  "profile": "https://www.instagram.com/dasha.hair.art/",
+  "facts": {
+    "city": "Хмельницький",
+    "phone": "0631543173",
+    "services": [
+      "Стрижки",
+      "SPA-догляд",
+      "Зачіски",
+      "AirTouch",
+      "Шатуш",
+      "Балаяж"
+    ]
+  },
+  "images": [
+    {
+      "file": "assets/instagram-00.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DVn0nHojQ5i/",
+      "original_alt": "Photo by • Перукар-колорист | стиліст |Хмельницький on March 08, 2026."
+    },
+    {
+      "file": "assets/instagram-02.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DdRoov1Dca5/",
+      "original_alt": "Photo by • Перукар-колорист | стиліст |Хмельницький on September 14, 2026."
+    },
+    {
+      "file": "assets/instagram-04.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DcsXnJgNw_Y/",
+      "original_alt": "Photo by • Перукар-колорист | стиліст |Хмельницький on August 30, 2026. На зображенні може бути: одна або кілька осіб, коси, світле волосся, довге волосся і текст."
+    },
+    {
+      "file": "assets/instagram-06.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DbltGONDXIX/",
+      "original_alt": "Photo by • Перукар-колорист | стиліст |Хмельницький on August 03, 2026."
+    },
+    {
+      "file": "assets/instagram-07.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DbAr567NNrS/",
+      "original_alt": "Photo by • Перукар-колорист | стиліст |Хмельницький on July 20, 2026. Можливо, це великий план одна або кілька осіб, світле волосся та макіяж."
+    },
+    {
+      "file": "assets/instagram-10.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DaDs8lMNm3V/",
+      "original_alt": "Photo by • Перукар-колорист | стиліст |Хмельницький on June 26, 2026."
+    },
+    {
+      "file": "assets/hero.jpg",
+      "source": "https://www.instagram.com/dasha.hair.art/p/DbAq5Jpjfj3/",
+      "caption": "Бразильське фарбування",
+      "dimensions": [
+        1420,
+        1834
+      ]
+    }
+  ],
+  "not_confirmed": [
+    "current prices",
+    "street address",
+    "opening hours",
+    "appointments availability"
+  ]
+}
