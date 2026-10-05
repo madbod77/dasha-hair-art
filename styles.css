@@ -11,3 +11,8 @@
 .photo-index{background:var(--ink);padding:5px 8px;text-shadow:none}.hero h1 em{padding-right:8px}html:not(.js) .menu-toggle,html:not(.js) .filters,html:not(.js) #booking-form fieldset,html:not(.js) .message-preview,html:not(.js) .copy-status{display:none}
 .service-options input{inset:0;min-width:0}
 @media(max-width:800px){html:not(.js) .header{height:auto;min-height:112px;flex-wrap:wrap;padding-block:12px;gap:4px}html:not(.js) .navigation{position:static;order:3;flex-basis:100%;padding:0;border:0;justify-content:flex-start;gap:24px}}
+
+/* Draw UI arrows independently of system fonts and emoji substitution. */
+.ui-icon{display:inline-block;width:1em;height:1em;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;vertical-align:-.15em;pointer-events:none}
+.lightbox-media button{display:grid;place-items:center}
+.lightbox-bottom a{gap:.4em}
